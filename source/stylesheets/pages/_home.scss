@@ -1,5 +1,5 @@
 #home {
-  background-color: #D23333;
+  background-color: #69337a;
   color: white;
   height: 100vh;
   display: flex;
@@ -13,5 +13,16 @@
     color: rgba(0,0,0,0.4);
     font-weight: bold;
     font-size: 16px;
+  }
+}
+
+.program-explanation {
+  background-color: white;
+  height: 200vh;
+  color: #565656;
+  text-align: center;
+  h3 {
+    margin-top: 0px;
+    padding-top: 30px;
   }
 }
