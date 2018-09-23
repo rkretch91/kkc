@@ -147,7 +147,7 @@ DEPENDENCIES
   middleman-deploy!
   middleman-sprockets
   pry-byebug
-  sassc
+  sassc (~> 1.12.1)
 
 BUNDLED WITH
    1.16.5
